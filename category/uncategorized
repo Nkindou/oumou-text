@@ -73,7 +73,7 @@
 <link rel='stylesheet' id='divi-style-css'  href='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/style.dev.css?ver=4.6.0' type='text/css' media='all' />
 <link rel='stylesheet' id='dashicons-css'  href='https://dyn-dev.oumouexpress.com/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
 <link rel='stylesheet' id='thickbox-css'  href='https://dyn-dev.oumouexpress.com/wp-includes/js/thickbox/thickbox.css?ver=5.6' type='text/css' media='all' />
-<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.9' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.10' type='text/css' media='all' />
 <link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.6.0' type='text/css' media='all' />
 <link rel='stylesheet' id='magnific-popup-css'  href='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=4.6.0' type='text/css' media='all' />
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
@@ -273,16 +273,16 @@ var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/js/custom.js?ver=4.6.0' id='divi-custom-script-js'></script>
-<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.9' id='the_champ_ss_general_scripts-js'></script>
-<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=7.13.9' id='the_champ_sl_common-js'></script>
+<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.10' id='the_champ_ss_general_scripts-js'></script>
+<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=7.13.10' id='the_champ_sl_common-js'></script>
 <script type='text/javascript' id='thickbox-js-extra'>
 /* <![CDATA[ */
 var thickboxL10n = {"next":"Suiv.\u00a0>","prev":"<\u00a0Pr\u00e9c.","image":"Image","of":"sur","close":"Fermer","noiframes":"Cette fonctionnalit\u00e9 requiert des iframes. Les iframes sont d\u00e9sactiv\u00e9es sur votre navigateur, ou alors il ne les accepte pas.","loadingAnimation":"https:\/\/dyn-dev.oumouexpress.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
-<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=7.13.9' id='the_champ_fb_sdk-js'></script>
-<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=7.13.9' id='the_champ_fb_commenting-js'></script>
+<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=7.13.10' id='the_champ_fb_sdk-js'></script>
+<script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=7.13.10' id='the_champ_fb_commenting-js'></script>
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.fitvids.js?ver=4.6.0' id='divi-fitvids-js'></script>
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/includes/builder/scripts/ext/waypoints.min.js?ver=4.6.0' id='waypoints-js'></script>
 <script type='text/javascript' src='https://dyn-dev.oumouexpress.com/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.magnific-popup.js?ver=4.6.0' id='magnific-popup-js'></script>
